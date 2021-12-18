@@ -11,11 +11,14 @@ This ongoing project is planned to bring together the following technologies.
 
 HTML/CSS/JavaScript
 
-React - Front End interaction, states flowing in the following order
+React - Front End interaction, states flowing in the following order:
 
   Year > Month(Including Year-to-Date) > (Income || Expense || Investment || ) > Each Individual Spreadsheet
 
-Income/Expense/Investment Navbar to include Dashboard tab. Dashboard will/can show summary based on month and YTD, numbers and hopefully implement a graph of some sort for easy trend and visual appeal.
+
+
+
+Income/Expense/Investment Navbar to include Dashboard tab - Dashboard will/can show summary based on month and YTD, numbers and hopefully implement a graph of some sort for easy trend and visual appeal.
 
 Spreadsheet component - A library similar to UI Grid, as UI Grid is Angular, may use React Spreadsheet or other library upon testing.
 
