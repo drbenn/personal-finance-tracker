@@ -1,0 +1,22 @@
+@import url("../../../src/colorpalette.css");
+
+.footer {
+  background-color: var(--title-color);
+  margin-top: 4rem;
+
+  width: 100%;
+  padding: 4rem 0rem 4rem 0rem;
+  color: rgb(22, 22, 22);
+  text-shadow: 0.5px 0.5px #420d6dcb;
+  border-top: 1px solid var(--color-4);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}

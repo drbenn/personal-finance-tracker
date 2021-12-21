@@ -1,0 +1,12 @@
+@import url("../../../src/colorpalette.css");
+
+.yearSelector {
+  background-color: rgb(252, 255, 247);
+  font-size: 1.7rem;
+  /* width: 100px; */
+  color: rgb(61, 61, 61);
+  padding: 5px 10px;
+  margin: 0.5rem;
+  border: 1px solid transparent;
+  border-color: transparent transparent var(--title-color) transparent;
+}

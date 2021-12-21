@@ -1,0 +1,16 @@
+@import url("../../../src/colorpalette.css");
+
+.title {
+  margin: 5rem 5rem 0rem 5rem;
+  font-size: 5rem;
+  font-weight: 700;
+  color: var(--title-color);
+  text-shadow: 2px 2px #420d6dcb;
+}
+
+.titleSubtext {
+  margin: 0rem 1rem 2rem 1rem;
+  font-size: 1rem;
+  font-weight: 100;
+  text-shadow: 1px 1px #420d6d3d;
+}

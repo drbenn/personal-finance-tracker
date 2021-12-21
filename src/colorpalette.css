@@ -1,0 +1,16 @@
+/* ==========COLOR PALLATE============== 
+light blue #E0ECE4 
+off-white #F7F2E7 
+light-grey #D8D3CD 
+dark-grey #797A7E 
+===================================== */
+
+:root {
+  --color-1: #e0ece4;
+  --color-2: #f7f2e7;
+  --color-3: #d8d3cd;
+  --color-4: #797a7e;
+  --bg-color-gradient-left: #ffffff;
+  --bg-color-gradient-right: rgba(224, 236, 228, 1);
+  --title-color: #73cf8f;
+}

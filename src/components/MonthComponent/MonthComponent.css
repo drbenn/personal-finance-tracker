@@ -1,0 +1,5 @@
+@import url("../../../src/colorpalette.css");
+
+.month {
+  margin: 1rem 0 2rem 0;
+}
